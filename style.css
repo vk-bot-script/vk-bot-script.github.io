@@ -1,0 +1,20 @@
+body {
+  background-color: #E6E6FA;
+  color: #4737CB;
+  font-family: "Times New Roman", Georgia, Serif;
+  font-size: 15px bold;
+}
+
+h1 {
+  color: #9A32CD;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.zzz {
+  text-shadow: 1px 1px 2px black, 0 0 1em blue; /* Параметры тени */
+  color: white; /* Белый цвет текста */
+  font-size: 20px; /* Размер надписи */
+
+
+}
